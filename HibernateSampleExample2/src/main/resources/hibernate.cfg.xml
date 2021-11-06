@@ -16,7 +16,5 @@
         <property name="format_sql">true</property>
         <property name="hbm2ddl.auto">update </property>
         
-        <class name="com.javawebtutor.User" table="USER_TBL">
-        
     </session-factory>
 </hibernate-configuration>
